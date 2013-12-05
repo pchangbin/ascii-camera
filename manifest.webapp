@@ -1,0 +1,12 @@
+{
+	"name": "Ascii Camera",
+	"description": "WebRTC test - Ascii Camera",
+	"icons": {
+		"128": "/icon.png"
+	},
+	"launch_path": "/index.html",
+	"developer" : {
+		"name" : "Changbin Park",
+		"url" : "https://github.com/pchangbin/ascii-camera"
+	}
+}
